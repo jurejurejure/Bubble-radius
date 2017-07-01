@@ -1,2 +1,2 @@
 # Bubble-radius
-Using Hough transformation for circle to determine bubble radius
+Using Hough transformation for circles to determine bubble radius
